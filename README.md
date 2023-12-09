@@ -11,6 +11,8 @@ Me chamo <strong>Carleone</strong> sou um Desenvolvedor Front-End.
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carleone-Souza-Santos)
+
 <!--Carleone-Souza-Santos-->
 ![carleone](https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos)
 
