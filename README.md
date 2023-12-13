@@ -1,5 +1,5 @@
 ### Olá !👋
-Me chamo <strong>Carleone</strong> sou um Desenvolvedor Front-End. 
+Me chamo <strong>Carleone</strong> e sou um Desenvolvedor Front-End a caminho de alcançar se um Desenvolvedor <b>fullStack.</b> 
 
 <h3>Habilidades:</h3>
 <div class="box" style="display:flex,">
