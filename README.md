@@ -1,6 +1,7 @@
 ### Olá !👋
 Me chamo <strong>Carleone</strong> e sou um Desenvolvedor Front-End a caminho de alcançar se um Desenvolvedor <b>fullStack.</b> 
-
+<li>Email: <a href="https://outlook.live.com/mail/0/">carlleoneribeiro@hotmail.com</a>
+  
 <h3>Habilidades:</h3>
 <div class="box" style="display:flex,">
   
@@ -13,7 +14,8 @@ Me chamo <strong>Carleone</strong> e sou um Desenvolvedor Front-End a caminho de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carleone-Souza-Santos)
 
-<!--Carleone-Souza-Santos-->
+
+
 ![carleone](https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos)
 
 <div class="box" style="display:flex,">
@@ -22,4 +24,6 @@ Me chamo <strong>Carleone</strong> e sou um Desenvolvedor Front-End a caminho de
          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
          </div>
+
+        
 
