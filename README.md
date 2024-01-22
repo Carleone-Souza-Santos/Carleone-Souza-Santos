@@ -1,5 +1,5 @@
 ### Olá !👋
-Me chamo <strong>Carleone</strong> e sou um Desenvolvedor Front-End a caminho de alcançar se um Desenvolvedor <b>fullStack.</b> 
+Me chamo <strong>Carleone</strong> e sou um Desenvolvedor Front-End a caminho de alcançar ser um Desenvolvedor <b>fullStack.</b> 
 <li>Email: <a href="https://outlook.live.com/mail/0/">carlleoneribeiro@hotmail.com</a>
   
 <h3>Habilidades:</h3>
