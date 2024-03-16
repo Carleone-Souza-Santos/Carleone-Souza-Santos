@@ -6,7 +6,7 @@ Estou comprometido em fornecer soluções de alta qualidade que elevem a experi�
 sucesso dos projetos em que estou envolvido.</p>
 
 <li>Email:   <a href="https://outlook.live.com/mail/0/" target="_blank" >carlleoneribeiro@hotmail.com</a>
-<li>Linkedin: <a href="https://www.linkedin.com/in/carleone-santos/">Linkdin</a>
+<li>Linkedin: <a href="https://www.linkedin.com/in/carleone-santos/">Carleone-santos</a>
 
 <h3>Habilidades:</h3>
 <div class="box" style="display:flex,">
