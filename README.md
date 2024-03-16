@@ -5,9 +5,9 @@ Me chamo <strong>Carleone</strong><p>Sou um desenvolvedor front-end altamente mo
 Estou comprometido em fornecer soluções de alta qualidade que elevem a experiência do usuário e impulsionem o
 sucesso dos projetos em que estou envolvido.</p>
 
-<li>Email: <a href="https://outlook.live.com/mail/0/">carlleoneribeiro@hotmail.com</a>
-<li>Email: <a href="www.linkedin.com/in/carleone-santos">Linkdin</a>
-  
+<li>Email:   <a href="https://outlook.live.com/mail/0/" target="_blank">carlleoneribeiro@hotmail.com</a>
+<li>Linkedin: <a href="www.linkedin.com/in/carleone-santos">Linkdin</a>
+
 <h3>Habilidades:</h3>
 <div class="box" style="display:flex,">
   
