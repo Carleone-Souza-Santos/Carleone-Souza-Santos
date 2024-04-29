@@ -1,14 +1,20 @@
+<img src = "" style="height: 75px; width: 75px; border-radius:50% ;" alt="User"/>
 
+<p align="center">Technology moves the world.<br>
+ 
+<p align="center" > I am a technology enthusiast, dedicated to creating innovative and impactful solutions through code. With a solid background in front-end development and ongoing studies to become a Full Stack developer, I have an insatiable desire to learn.              
+I am always seeking new challenges and opportunities to expand my knowledge and skills.
+</p>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<br>
 
 <div align="center" style="margin-bottom:100px">
 <img width=40%  align="center" src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=radical&layout=compact"/>
-<img width=40%  align="center" src="https://github-readme-stats-git-main-Carleone-Souza-Santo.vercel.app/api/top-langs/?username=Carleone-Souza-Santos&show_icons=true&theme=radical&layout=compact" />
+<img width=40%  align="center" src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=radical&layout=compact"/>
+ 
 </div>
 
 
- 
 
  &nbsp;
 
@@ -28,7 +34,10 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=green"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Comput">
 
@@ -40,22 +49,25 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 &nbsp;
 &nbsp;
-
 
 ## Contacts:
 
 
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
+<a href="https://www.linkedin.com/in/carleone-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
 </div>&nbsp;&nbsp;
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ffff&height=120&section=footer"/>
 
 
-<li>Email:    <a href="https://outlook.live.com/mail/0/" target="_blank" >carlleoneribeiro@hotmail.com</a>
-<li>Linkedin: <a href="https://www.linkedin.com/in/carleone-santos/">Carleone-santos</a>
+<li>Email: <a href="https://outlook.live.com/mail/0/" target="_blank" >carlleoneribeiro@hotmail.com</a>
+
 
 <div style="display:flex; justify-content:center";>
 
