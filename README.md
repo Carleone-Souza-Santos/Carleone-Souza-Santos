@@ -8,10 +8,10 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 
 <br>
 
-<div align="center" style="margin-bottom:100px">
-<img width=40%  align="center" src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=radical&layout=compact"/>
-<img width=40%  align="center" src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=radical&layout=compact"/>
- 
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carleone-Souza-Santos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 </div>
 
 
@@ -56,15 +56,12 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 
 </div>&nbsp;&nbsp;
 
+<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgMonitor.png?raw=true" alt="img-computer"/>
+
 ## Contacts:
-
-<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt=""/>
-
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-<li>Email: <a href="https://outlook.live.com/mail/0/" target="_blank" >carlleoneribeiro@hotmail.com</a>
  
 <img width=100% style="padding:1000px" src="https://capsule-render.vercel.app/api?type=waving&color=#ffff&height=120&section=footer"/>
 
