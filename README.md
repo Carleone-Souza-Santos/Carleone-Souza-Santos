@@ -8,10 +8,10 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 
 <br>
 
-<div  display="flex">
-<img  src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" />
+<div align="center" display="flex">
+<img width="40%" height="100em" src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" /> 
+<img width="40%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" /> 
 </div>
 
 <div align="center"  max-width="50%"> 
