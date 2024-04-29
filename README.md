@@ -9,28 +9,36 @@ sucesso dos projetos em que estou envolvido.</p>
 <li>Linkedin: <a href="https://www.linkedin.com/in/carleone-santos/">Carleone-santos</a>
 
 <div class="box" style="display:flex,">
-<h3>Habilidades:</h3>
+<h3>Skills:</h3>
   
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+https://carleone-souza-santos.github.io/Instagram/
+<div style="display:flex; justify-content:center";>
+<img src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=blue-green"/>
+
+</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carleone-Souza-Santos&repo=)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=blue-green">
+<div style="display:flex; justify-content: center";>
+  <h1>FFFFF</h1>
+</div>  
 
-
-   
-<div class="box" style="display:flex,">
+<div class="box">
     <h3>Cursando 2024:</h3>
            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-           <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  
+   </div>       
+   
+      <h3>Estudando no momento:</h3>
+      
 
         
 
