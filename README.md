@@ -8,12 +8,13 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 
 <br>
 
-<div  max-width="25%";align="center" display:flex justify-content:center;>
-<img  max-width="25%"; src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" />
-<img  max-width="25%"; src="https://github-readme-streak-stats.herokuapp.com/?user=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" /> 
+<div  display="flex">
+<img  src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" /> 
 </div>
 
-<div align="center">
+<div align="center"  max-width="50%"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carleone-Souza-Santos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 </div> 
 
