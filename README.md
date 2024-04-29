@@ -1,4 +1,4 @@
-<img src = "" style="height: 75px; width: 75px; border-radius:50% ;" alt="User"/>
+<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt=""/>
 
 <p align="center">Technology moves the world.<br>
  
@@ -58,6 +58,7 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 
 ## Contacts:
 
+<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt=""/>
 
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
