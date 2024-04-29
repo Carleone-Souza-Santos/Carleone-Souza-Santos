@@ -67,7 +67,11 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
  
 <div>
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkdin"></a> 
+<img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true"  alt="linkdin"></a> 
+ <a href="https://www.instagram.com/carleone.desenvolvedor/" target="_blank">
+<img src="https://github.com/Carleone-Souza-Santos/Loja-E-comerc/blob/master/images/instagram%20(1).png?raw=true"  alt="Instagram"></a> 
+ <a href="https://www.facebook.com/SantsSonCarll/" target="_blank">
+<img src="https://github.com/Carleone-Souza-Santos/Loja-E-comerc/blob/master/images/facebook%20(1).png?raw=true"  alt="Facebook"></a> 
 </div>
 
 <img width=100% style="padding:1000px" src="https://capsule-render.vercel.app/api?type=waving&color=#ffff&height=120&section=footer"/>
