@@ -53,29 +53,22 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 &nbsp;
 &nbsp;
 
+
+</div>&nbsp;&nbsp;
+
 ## Contacts:
 
 
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
-<a href="https://www.linkedin.com/in/carleone-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
 </div>&nbsp;&nbsp;
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ffff&height=120&section=footer"/>
-
-
 <li>Email: <a href="https://outlook.live.com/mail/0/" target="_blank" >carlleoneribeiro@hotmail.com</a>
-
-
-<div style="display:flex; justify-content:center";>
-
-</div>
-
  
+<img width=100% style="padding:1000px" src="https://capsule-render.vercel.app/api?type=waving&color=#ffff&height=120&section=footer"/>
 
-      
+
+
   
       
 
