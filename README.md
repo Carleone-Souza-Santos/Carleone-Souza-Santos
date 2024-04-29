@@ -9,7 +9,7 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 <br>
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carleone-Souza-Santos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 </div>
@@ -39,9 +39,13 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Comput">
 
-#### Studying in this moment:
+&nbsp;&nbsp;
+<div >
+<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgMonitor.png?raw=true" min-width="300px"  max-width="300px" width="300px" align="right" alt="img-computer"/>
+</div>
+
+## Studying in this moment:
 
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -56,13 +60,16 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 
 </div>&nbsp;&nbsp;
 
-<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgMonitor.png?raw=true" alt="img-computer"/>
 
-## Contacts:
-<a href="https://www.linkedin.com/in/carleone-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+
+<br><br><br><br>
+ ## Contacts:
  
- 
+<div>
+<a href="https://www.linkedin.com/in/carleone-santos/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"  alt="linkdin"></a> 
+</div>
+
 <img width=100% style="padding:1000px" src="https://capsule-render.vercel.app/api?type=waving&color=#ffff&height=120&section=footer"/>
 
 
