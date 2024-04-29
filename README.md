@@ -45,7 +45,7 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 <img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgMonitor.png?raw=true" min-width="300px"  max-width="300px" width="300px" align="right" alt="img-computer"/>
 </div>
 
-## Studying in this moment:
+<h3>Studying in this moment:</h3>
 
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -67,7 +67,7 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
  
 <div>
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"  alt="linkdin"></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkdin"></a> 
 </div>
 
 <img width=100% style="padding:1000px" src="https://capsule-render.vercel.app/api?type=waving&color=#ffff&height=120&section=footer"/>
