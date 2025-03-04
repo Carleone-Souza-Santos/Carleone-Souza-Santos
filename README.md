@@ -1,9 +1,9 @@
-<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt=""/>
+<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt="Desenvolvedor"/>
 
-<p align="center">Technology moves the world.<br>
- 
-<p align="center" > I am a technology enthusiast, dedicated to creating innovative and impactful solutions through code. With a solid background in front-end development and ongoing studies to become a Full Stack developer, I have an insatiable desire to learn.              
-I am always seeking new challenges and opportunities to expand my knowledge and skills.
+
+<p align="center" > Sou um entusiasta da tecnologia, apaixonado por transformar ideias em soluções inovadoras e impactantes através do código. Com uma sólida experiência em desenvolvimento Front-end e em constante evolução para me tornar um desenvolvedor Full Stack, estou sempre em busca de novos desafios. Minha sede por aprendizado me impulsiona a explorar novas tecnologias e aprimorar minhas habilidades a cada dia.
+
+Estou pronto para agregar valor a projetos que exigem criatividade, eficiência e inovação. Vamos construir o futuro juntos? 🚀
 </p>
 
 <br>
@@ -42,7 +42,7 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 
 &nbsp;&nbsp;
@@ -56,7 +56,7 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
