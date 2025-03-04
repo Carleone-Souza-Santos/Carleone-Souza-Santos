@@ -1,4 +1,4 @@
-<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt="Desenvolvedor"/>
+<img src = "https://avatars.githubusercontent.com/u/109290792?v=4" alt="Desenvolvedor" width=125px/>
 
 
 <p align="center" > Sou um entusiasta da tecnologia, apaixonado por transformar ideias em soluções inovadoras e impactantes através do código. Com uma sólida experiência em desenvolvimento Front-end e em constante evolução para me tornar um desenvolvedor Full Stack, estou sempre em busca de novos desafios. Minha sede por aprendizado me impulsiona a explorar novas tecnologias e aprimorar minhas habilidades a cada dia.
@@ -14,16 +14,17 @@ Estou pronto para agregar valor a projetos que exigem criatividade, eficiência 
 <img width="40%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=Carleone-Souza-Santos&theme=dark&hide_border=false&layout=compact" alt="Github Stats" /> 
 </div>
 
-<div align="center"   max-width="50%"> 
- <img height="110em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carleone-Souza-Santos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-</div> 
-
 
 
  &nbsp;
 
 ## My Sites
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+
+
+<a href="https://portfolio-gamma-beryl-43.vercel.app/" target="_blank">
+  <img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true" 
+       alt="site" width="40">
+</a>
 
 ## My Skills
 
